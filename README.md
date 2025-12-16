@@ -4,7 +4,7 @@
 Hello! I am a Data Analytics enthusiast who enjoys working with data to find insights and create meaningful dashboards.  
 This repository contains my data analysis projects, dashboards, and reports.
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
+<img src="https://avatars.mds.yandex.net/get-ydo/4362967/2a0000017b0765541b8d6168683f8badce10/diploma" width="600"/>
 
 ---
 
@@ -50,7 +50,7 @@ This repository contains my data analysis projects, dashboards, and reports.
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" width="50"/>
+<img src="https://miro.medium.com/v2/resize:fit:1200/0*Fjl-ZUJCaE0OMp9U.png" width="50"/>
 
 - Excel  
 - SQL  
